@@ -1,6 +1,9 @@
 # desktop-file-translation
 
-A central repository for localizing all .desktop files in Arch Linux
+A central repository for localizing all .desktop files in Arch Linux.
+
+* Can generate an `update.sh` script that contains all strings that needs translation.
+* The `update.sh` script can then be run in `/usr/share/applications` for applying all the localizations.
 
 Help wanted:
 
