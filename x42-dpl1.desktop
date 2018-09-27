@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=x42-dpl1
+Comment=Look-ahead digital peak limiter intended but not limited to the final step of mastering or mixing
+Exec=x42-dpl1
+Icon=x42-dpl1
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Audio;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=RapidMiner Studio
+Comment=Empowers data scientists and business analysts to effortlessly design predictive analytics from mashup to modeling to deployment
+Exec=rapidminer-studio
+Icon=rapidminer-studio
+Terminal=false
+StartupNotify=false
+Categories=Science;Education;Development;

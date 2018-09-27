@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=x42-tuna
+Comment=A musical instrument tuner with strobe characteristics
+Exec=x42-tuna
+Icon=x42-tuna
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Audio;

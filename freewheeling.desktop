@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Freewheeling
+Comment=A highly configurable, intuitive, and fluid user interface for instrumentalists to capture audio loops in real-time
+Exec=fweelin
+Icon=freewheeling
+Terminal=false
+StartupNotify=false
+Categories=Audio;Sequencer;

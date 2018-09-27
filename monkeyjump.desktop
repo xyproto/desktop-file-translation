@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Monkeyjump
+Comment=Minimalistic GUI for playing Go with GnuGo and other GTP applications
+Exec=/usr/bin/monkeyjump 19
+Icon=monkeyjump
+Terminal=true
+StartupNotify=false
+Categories=Game;BoardGame;;

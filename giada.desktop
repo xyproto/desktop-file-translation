@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Giada
+Comment=A free, minimal, hardcore audio tool for DJs, live performers and electronic musicians
+Exec=giada
+Icon=giada
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Audio;Midi;Sequencer;

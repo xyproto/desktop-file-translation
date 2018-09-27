@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=padthv1
+Version=1.0
+GenericName=MIDI
+Comment=padthv1 is an old school polyphonic additive synthesizer 
+Comment[fr]=padthv1 est un synthétiseur polyphonique additif à l'ancienne
+Exec=padthv1_jack
+Icon=padthv1
+Categories=Audio;AudioVideo;Midi;X-Alsa;X-Jack;Qt;
+Keywords=Audio;MIDI;ALSA;JACK;Synthesizer;LV2;Qt;
+Terminal=false
+Type=Application
+StartupWMClass=padthv1_jack
+X-Window-Icon=padthv1
+X-SuSE-translate=true

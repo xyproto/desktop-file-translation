@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=zita-bls1
+Comment=Blumlein Shuffler (binaural stereo signals to convential stereo speaker conversion)
+Exec=zita-bls1
+Icon=zita-bls1
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Audio;

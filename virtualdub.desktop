@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=VirtualDub
+Comment=Video editing software (uses the WIN32 API)
+Exec=virtualdub
+Icon=virtualdub
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Multimedia;

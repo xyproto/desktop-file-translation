@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PatchMatrix
+Comment=Connect JACK clients together
+Exec=/usr/bin/patchmatrix
+Terminal=false
+Icon=/usr/share/icons/hicolor/256x256/apps/patchmatrix.png
+Type=Application
+Categories=AudioVideo;Audio;

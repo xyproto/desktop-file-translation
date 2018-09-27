@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=x42-meter
+Comment=Collection of audio-level meters
+Exec=x42-meter
+Icon=x42-meter
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Audio;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Munt
+Comment=Software synthesizer emulating pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I
+Exec=/usr/bin/mt32emu-qt
+Icon=munt
+Terminal=false
+StartupNotify=true
+Categories=Audio;AudioVideo;Midi;X-Alsa;X-Jack;Qt;

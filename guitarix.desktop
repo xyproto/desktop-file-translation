@@ -1,0 +1,14 @@
+
+[Desktop Entry]
+Name=guitarix
+Name[fr]=guitarix
+GenericName=Mono Amplifier
+GenericName[fr]=Ampli Mono
+Comment=Simple mono amplifier simulation
+Comment[fr]=Simulation d'ampli mono simple
+Exec=guitarix
+Icon=gx_head
+Categories=AudioVideo;Audio;X-Jack;Midi;X-MIDI;
+Terminal=false
+Type=Application
+Keywords=Audio;Sound;Guitar;Amplifier;Record;Midi;Jack;

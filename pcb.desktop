@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=gEDA PCB
+GenericName=gEDA PCB Layout Editor
+Comment=Create and edit printed circuit board layouts
+Type=Application
+Exec=pcb %f
+Icon=pcb
+MimeType=application/x-pcb-layout;application/x-pcb-footprint;
+Categories=Engineering;Electronics;Development;

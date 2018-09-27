@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Nethack (X11)
+GenericName=Nethack
+Comment=Single player dungeon exploration game (X11 version)
+Exec=nethack
+Icon=nethack-x11
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Dungeon Crawl Stone Soup
+Comment=Open-source, single-player, role-playing roguelike game of exploration and treasure-hunting
+Exec=crawl-tiles
+Icon=stone-soup
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;AdventureGame;

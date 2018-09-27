@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Sensei Raw Setup
+GenericName=SteelSeries Sensei Raw control utility
+Icon=sensei-raw-ctl-gui
+Exec=sensei-raw-ctl-gui
+StartupNotify=true
+Categories=GTK;Settings;HardwareSettings;Utility;X-GNOME-Settings-Panel;
+X-GNOME-Settings-Panel=sensei-raw-ctl-gui

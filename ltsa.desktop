@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Ltsa
+Comment=Labelled Transition System Analyser, a verification tool for concurrent systems
+Exec=ltsa
+Icon=ltsa
+Terminal=false
+StartupNotify=false
+Categories=Education;Java;

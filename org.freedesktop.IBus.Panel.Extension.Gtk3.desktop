@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name[ca]=Tria de l'emoji
+Name[cs]=Výběr emoji:
+Name[da]=Valg af emoji
+Name[es]=Selección de emoji
+Name[fr]=Choix d’émoticônes
+Name[hu]=Emodzsi választás
+Name[ja]=絵文字の選択
+Name[nl]=Emoji keuze
+Name[pl]=Wybór emoji
+Name[pt_BR]=Escolha do emoji
+Name[sv]=Emoji-val
+Name[uk]=Вибір емодзі
+Name[zh_TW]=繪文字選擇
+Name=Emoji Choice
+Icon=ibus
+Exec=/usr/lib/ibus/ibus-extension-gtk3
+Type=Application
+NoDisplay=true

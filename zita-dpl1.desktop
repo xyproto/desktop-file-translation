@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=zita-dpl1
+Comment=A look-ahead digital peak level limiter
+Exec=zita-dpl1
+Icon=zita-dpl1
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Audio;

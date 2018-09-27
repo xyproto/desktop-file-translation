@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=x42-mixtri
+Comment=Matrix mixer and trigger processor
+Exec=x42-mixtri
+Icon=x42-mixtri
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Audio;

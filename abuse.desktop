@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Abuse
+Comment=Side-scroller action game that pits you against ruthless alien killers
+Exec=abuse
+Icon=abuse
+Terminal=false
+StartupNotify=false
+Categories=Application;Game;

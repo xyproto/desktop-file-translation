@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Hopper Disassembler v4
+Comment=Hopper Disassembler v4
+Exec=/opt/hopper-v4/bin/hopper-launcher.sh %U
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=hopper-disassembler-v4.png
+Categories=Application;Development;

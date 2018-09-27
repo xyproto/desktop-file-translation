@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=zita-at1
+Comment=An 'autotuner' Jack application.
+Exec=zita-at1
+Icon=zita-at1
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;Audio;

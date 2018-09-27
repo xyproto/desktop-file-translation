@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Gephi - The Open Graph Viz Platform
+Comment=An interactive graph visualization and exploration platform
+Exec=gephi
+Icon=gephi
+Terminal=false
+StartupNotify=false
+Categories=Application;

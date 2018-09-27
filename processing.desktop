@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Processing
+Comment=Programming environment for creating images, animations and interactions
+Exec=processing
+Icon=processing
+Terminal=false
+StartupNotify=false
+Categories=Application;Development;

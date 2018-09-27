@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Turtle Sport
+GenericName=Turtle Sport Garmin logbook
+Icon=/usr/share/java/turtlesport/turtlesport.xpm
+Exec=turtlesport
+Categories=Education;
+Comment=Turtle Sport Garmin logbook
+X-Desktop-File-Install-Version=0.22

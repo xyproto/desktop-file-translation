@@ -1,0 +1,11 @@
+[Desktop Entry]
+Exec=csoundqt %F
+Icon=csoundqt
+MimeType=text/x-csound-csd;text/x-csound-orc;text/x-csound-sco;
+Name=CsoundQt
+NoDisplay=false
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;
+GenericName=IDE for csound

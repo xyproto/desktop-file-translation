@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ModelSim-Altera Starter Edition
+Comment=ModelSim simulation software for Altera FPGA's
+Exec=/opt/altera/18.0/modelsim_ase/bin/vsim
+Icon=/opt/altera/18.0/modelsim_ase/modesim.gif
+Terminal=false
+Type=Application
+Categories=Development

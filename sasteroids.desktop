@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Sasteroids
+Comment=SDL Asteroids
+Exec=sasteroids
+Icon=sasteroids
+Terminal=false
+StartupNotify=false
+Categories=Game;ArcadeGame;

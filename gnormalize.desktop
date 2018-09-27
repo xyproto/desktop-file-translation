@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Gnormalize
+Comment=Audio normalizer, converter, encoder/decoder, ripper, tagger and player
+Exec=gnormalize
+Icon=gnormalize
+Terminal=false
+StartupNotify=false
+Categories=Application;Multimedia;
+MimeType=audio/mp3;audio/x-mp3;audio/mpeg;audio/x-mpeg;audio/x-wav;application/x-ogg;
